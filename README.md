@@ -1,5 +1,5 @@
 <hr>
-<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/ezgif.com-resize.gif" alt="CLOUDS GIF" width="1000">
+<img src="https://raw.githubusercontent.com/rxfuz/rxfuz/main/.github/assets/ezgif.com-resize.gif" alt="CLOUDS GIF" width="1000">
 <hr>
 𝑩𝒂𝒍𝒕𝒊𝒌𝒂 𝟗<br>
 <hr>
