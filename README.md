@@ -10,7 +10,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=rxfuz&color=F28C52&style=flat-square&label=Profile+Views)](https://github.com/rxfuz) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/rxfuz?label=Followers&style=flat-square&color=F28C52&labelColor=1E293B)](https://github.com/rxfuz?tab=followers) &nbsp; [![GitHub User's stars](https://img.shields.io/github/stars/rxfuz?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total+Stars&color=F28C52&labelColor=1E293B)](https://github.com/rxfuz)
 </div>
 
-<hr>
 
 ## <div align="center"> <img src="https://raw.githubusercontent.com/rxfuz/rxfuz/main/.github/assets/Scene-1-ezgif.com-resize.gif" alt="gif2" width="1000">⠀</div>
 
