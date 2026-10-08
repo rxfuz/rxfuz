@@ -1,11 +1,10 @@
 
 <img src="https://raw.githubusercontent.com/rxfuz/rxfuz/main/.github/assets/d3a8e8880e76819d559a222bd308e0bd_720w-Picwand-ezgif.com-optimize (1).gif" alt="gif1" width="1000">
-
+<!--
 <div align="center">
-  
 # Hi <a href="https://github.com/rufusxxxx" target="_blank"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhsZHI2eGdwZXhtZnF4dzNibDJ6bGFoc2VnNmhsbm9vbjd5MzhzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/INRGgE03zcXeQLZIfM/giphy.gif" width="35"></a>
-
 </div>
+-->
 <!--
 <br>
 [![Profile Views](https://komarev.com/ghpvc/?username=rxfuz&color=F28C52&style=flat-square&label=Profile+Views)](https://github.com/rxfuz) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/rxfuz?label=Followers&style=flat-square&color=F28C52&labelColor=1E293B)](https://github.com/rxfuz?tab=followers) &nbsp; [![GitHub User's stars](https://img.shields.io/github/stars/rxfuz?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total+Stars&color=F28C52&labelColor=1E293B)](https://github.com/rxfuz)
